@@ -1,0 +1,39 @@
+h2 {
+    color: black;
+    font-size: 40px;
+    margin-bottom: 51px;
+    width: 100%;
+    text-align: center;
+    margin-top: 51px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container a {
+    background-color: black;
+    margin-bottom: 5px;
+    text-align: center;
+    margin-top: 40px;
+    width: 466px;
+    cursor: pointer;
+    font-weight: 700;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container a:hover {
+    background-color: #626262;
+    color: black;
+}
+
+.container p {
+    color: black;
+    font-size: 32px;
+}
